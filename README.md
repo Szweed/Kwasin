@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kwasin
+- 👋 Hi, I’m @Szwedzik
 - 👀 I’m interested in Gamedev and Programing
 - 🌱 I’m currently learning informatic and mathematic
 - 💞️ I want to cooperate with experienced people
